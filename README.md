@@ -1,2 +1,2 @@
 https://rentalfullstackproject.onrender.com
-(copy this link to go my website)
+(copy this link to visit my website)
