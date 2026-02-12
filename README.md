@@ -1,1 +1,2 @@
-https://rentalfullstackproject.onrender.com(copt this link to go my website)
+https://rentalfullstackproject.onrender.com
+(copy above link to go my website)
